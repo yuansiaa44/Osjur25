@@ -1,0 +1,4 @@
+NAMA: Magnesi Qiantaqi
+NIM: 25106050076
+
+Figma adalah software desain grafis berbasis vektor, figma biasanya digunakan untuk membuat wireframe, prototype, sampai desain antarmuka (UI/UX) aplikasi maupun website.
