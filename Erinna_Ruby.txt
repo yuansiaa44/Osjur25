@@ -1,0 +1,12 @@
+Nama: Erinna Setyaningrum
+Gugus: Ruby
+Ringkasan week 1:
+Figma adalah aplikasi desain UI/UX berbasis vektor yang berjalan di browser dan desktop.
+Figma berbasis cloud sehingga pengerjaan akan tersimpan otomatis.
+Keunggulan dari figma adalah dapat berkolaborasi.
+Figma juga merupakan aplikasi paling populer yang tidak hanya digunakan oleh desainer tetapi juga developer.
+Tiga aplikasi populer untuk mengedit adalah Figma, Adobe, dan Sketch.
+Bagian-bagian figma: sebelah kiri adalah layer panel, sebelah kanan adalah property panel, bawah adalah toolbar, dan tengah adalah kanvas.
+Prinsip dasar UI: Contras, Repetition, Alignment, dan Proximity.
+Prinsip dasar UX: Hick's Law, Miller's Law, Fitts's Law, Jakob's Law.
+Prinsip lain: Emphasis, Color, Typography, White space.
