@@ -1,1 +1,5 @@
 # Osjur25
+NAMA : ILHAM
+NIM :25106050110
+
+FIGMA adalah
