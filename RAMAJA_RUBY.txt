@@ -1,0 +1,18 @@
+NAMA     : MUHAMMAD RAMAJA SURYA
+NIM      : 25106050052
+
+FIGMA ADALAH alat desain kolaboratif berbasis
+cloud yang digunakan untuk merancang antarmuka pengguna (UI)
+dan pengalaman pengguna (UX) untuk aplikasi dan situs web,
+serta untuk membuat prototipe, diagram, dan presentasi. Alat 
+ini memungkinkan tim untuk bekerja bersama secara real-time
+
+KEUNGGULAN FIGMA
+- desain UI/UX berbasis vektor 
+- berbasis cloud,semua kerjaan auto tersimpan
+- berkolaborasi real time
+- punya fitur prototyping
+
+POSISI FIGMA
+- salah satu tools paling populer
+- cocok untuk tim
