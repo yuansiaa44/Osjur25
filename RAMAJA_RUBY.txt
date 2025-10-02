@@ -1,5 +1,5 @@
-NAMA     : RAMAJA
-KELOMPOK : RUBY
+NAMA     : MUHAMMAD RAMAJA SURYA
+NIM      : 25106050052
 
 FIGMA ADALAH alat desain kolaboratif berbasis
 cloud yang digunakan untuk merancang antarmuka pengguna (UI)
